@@ -66,5 +66,6 @@
     <Build Include="dbo\Tables\customer.sql" />
     <Build Include="dbo\Tables\ErrorLog.sql" />
     <Build Include="dbo\Tables\commision.sql" />
+    <Build Include="dbo\Tables\customer_type.sql" />
   </ItemGroup>
 </Project>
