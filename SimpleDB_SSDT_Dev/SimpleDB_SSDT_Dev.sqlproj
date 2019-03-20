@@ -65,8 +65,6 @@
   <ItemGroup>
     <Build Include="dbo\Tables\customer.sql" />
     <Build Include="dbo\Tables\ErrorLog.sql" />
-    <Build Include="dbo\Tables\commision.sql" />
-    <Build Include="dbo\Tables\customer_type.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment1.sql" />
