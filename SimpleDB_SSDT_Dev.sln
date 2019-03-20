@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SimpleDB_SSDT_Dev", "SimpleDB_SSDT_Dev\SimpleDB_SSDT_Dev.sqlproj", "{70AF573B-5495-425F-B199-4A8869CC787F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AF573B-5495-425F-B199-4A8869CC787F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AF573B-5495-425F-B199-4A8869CC787F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AF573B-5495-425F-B199-4A8869CC787F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{70AF573B-5495-425F-B199-4A8869CC787F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AF573B-5495-425F-B199-4A8869CC787F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AF573B-5495-425F-B199-4A8869CC787F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2225AADD-5CD3-4372-A62B-FA666852CE0C}
+	EndGlobalSection
+EndGlobal
